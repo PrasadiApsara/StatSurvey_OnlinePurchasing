@@ -1,6 +1,9 @@
 # Statistical Analysis on Online Purchasing Habits
 The purpose of this analysis was to identify how online purchasing habits vary between men and women.
 A questionnaire was desinged and distributed among a set of individuals. These individuals were chosen to be those in the age range 20 - 40 and who has access to either a laptop or a mobile device.
+
+Following is a link to the questinnaire : https://goo.gl/forms/UVNOcMDogAv1BR643
+
 The collected samples contained 58 men and 52 women.
 They were questioned about the online purchases they have done within the last 6 months.
 These samples were then used for testing some of the hypothesis we had about online purchasing habits.
